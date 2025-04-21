@@ -1,4 +1,8 @@
 {
   "name": "EquipoBasquetReactNative",
-  "displayName": "EquipoBasquetReactNative"
+  "displayName": "EquipoBasquetReactNative",
+  "plugins": [
+  "react-native-safe-area-context"
+]
+
 }
